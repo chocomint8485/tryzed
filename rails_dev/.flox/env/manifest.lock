@@ -1,0 +1,411 @@
+{
+  "lockfile-version": 1,
+  "manifest": {
+    "version": 1,
+    "install": {
+      "libyaml": {
+        "pkg-path": "libyaml"
+      },
+      "ruby": {
+        "pkg-path": "ruby"
+      },
+      "sqlite": {
+        "pkg-path": "sqlite"
+      }
+    },
+    "hook": {},
+    "profile": {},
+    "options": {
+      "systems": [
+        "aarch64-darwin",
+        "aarch64-linux",
+        "x86_64-darwin",
+        "x86_64-linux"
+      ],
+      "allow": {
+        "licenses": []
+      },
+      "semver": {}
+    }
+  },
+  "packages": [
+    {
+      "attr_path": "libyaml",
+      "broken": false,
+      "derivation": "/nix/store/pvhi20w5vfxb4q4i9vv9rnm6pmnpbscn-libyaml-0.2.5.drv",
+      "description": "YAML 1.1 parser and emitter written in C",
+      "install_id": "libyaml",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "libyaml-0.2.5",
+      "pname": "libyaml",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.2.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dev": "/nix/store/k0p77x2zdvackadk04d5mxnrr08pgxqk-libyaml-0.2.5-dev",
+        "out": "/nix/store/s4raxn68m0p9niw7iyvya8l1ayhx0abw-libyaml-0.2.5"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "libyaml",
+      "broken": false,
+      "derivation": "/nix/store/nbrnx8qqs2vmzd0j50knkgj4fcfp5dky-libyaml-0.2.5.drv",
+      "description": "YAML 1.1 parser and emitter written in C",
+      "install_id": "libyaml",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "libyaml-0.2.5",
+      "pname": "libyaml",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.2.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dev": "/nix/store/sdjqlxfkbpgps983hy6595cz2zbiih6v-libyaml-0.2.5-dev",
+        "out": "/nix/store/ylx58sc75v6g5wmc24kpw1zbdrp95qxv-libyaml-0.2.5"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "libyaml",
+      "broken": false,
+      "derivation": "/nix/store/by97z7hh4rb5w74i8ph8llgl3mfwdyn9-libyaml-0.2.5.drv",
+      "description": "YAML 1.1 parser and emitter written in C",
+      "install_id": "libyaml",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "libyaml-0.2.5",
+      "pname": "libyaml",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.2.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dev": "/nix/store/sg4dc6dl2qx5fknqqyyfchd731mj1qw9-libyaml-0.2.5-dev",
+        "out": "/nix/store/wby7bmxp42aidyvdaqx4arx12j6gvj9d-libyaml-0.2.5"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "libyaml",
+      "broken": false,
+      "derivation": "/nix/store/i3561i1ibqv1q37lgps7aa9ldyqcr0rl-libyaml-0.2.5.drv",
+      "description": "YAML 1.1 parser and emitter written in C",
+      "install_id": "libyaml",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "libyaml-0.2.5",
+      "pname": "libyaml",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "0.2.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dev": "/nix/store/dwbkza6h9mdrpyv7s9n3kb4smcmf8rid-libyaml-0.2.5-dev",
+        "out": "/nix/store/s5y8cgwj9saik6hpxq6hvry31hggnxij-libyaml-0.2.5"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "ruby",
+      "broken": false,
+      "derivation": "/nix/store/qw1ybpdi89sxsyd92rysd4cgj54w8a8z-ruby-3.3.5.drv",
+      "description": "Object-oriented language for quick and easy programming",
+      "install_id": "ruby",
+      "license": "Ruby",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "ruby-3.3.5",
+      "pname": "ruby",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.3.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "devdoc": "/nix/store/qbyqi9nj5yg8f4xm558ymlz9lk5fgzr7-ruby-3.3.5-devdoc",
+        "out": "/nix/store/x1frilk1vr0fnk5zl55bfyv27ychiv3d-ruby-3.3.5"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "ruby",
+      "broken": false,
+      "derivation": "/nix/store/rjgpjiz0hf39z7ml8bvlkn48g5cfzx1i-ruby-3.3.5.drv",
+      "description": "Object-oriented language for quick and easy programming",
+      "install_id": "ruby",
+      "license": "Ruby",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "ruby-3.3.5",
+      "pname": "ruby",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.3.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "devdoc": "/nix/store/1han7xvbvh36d198sm4lp11c7w63kz8v-ruby-3.3.5-devdoc",
+        "out": "/nix/store/sav56f0br714z8zc8vwchxas4izm2chj-ruby-3.3.5"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "ruby",
+      "broken": false,
+      "derivation": "/nix/store/v1ma3m1ycn7z5d8qr45i7wffg4jrc0x6-ruby-3.3.5.drv",
+      "description": "Object-oriented language for quick and easy programming",
+      "install_id": "ruby",
+      "license": "Ruby",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "ruby-3.3.5",
+      "pname": "ruby",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.3.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "devdoc": "/nix/store/1j5dxwfvhqi65bzn4wqc23db7brd3hq4-ruby-3.3.5-devdoc",
+        "out": "/nix/store/dy6k8szppx7rpa0b3sdxm0q7ni75zbn4-ruby-3.3.5"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "ruby",
+      "broken": false,
+      "derivation": "/nix/store/2brfndg4r3y02g6jkcvnxnb0i6253rw6-ruby-3.3.5.drv",
+      "description": "Object-oriented language for quick and easy programming",
+      "install_id": "ruby",
+      "license": "Ruby",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "ruby-3.3.5",
+      "pname": "ruby",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.3.5",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "devdoc": "/nix/store/3abwjizdsjmr85vms70zgsvjp0p7bgnr-ruby-3.3.5-devdoc",
+        "out": "/nix/store/0ws1v8mcnqh6zkhdw7i5p5yb0rvcx188-ruby-3.3.5"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "sqlite",
+      "broken": false,
+      "derivation": "/nix/store/wk2m8zp8l013nj1n9wb435lxzhyfi0n3-sqlite-3.46.1.drv",
+      "description": "Self-contained, serverless, zero-configuration, transactional SQL database engine",
+      "install_id": "sqlite",
+      "license": "Public Domain",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "sqlite-3.46.1",
+      "pname": "sqlite",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.46.1",
+      "outputs_to_install": [
+        "bin",
+        "man"
+      ],
+      "outputs": {
+        "bin": "/nix/store/8slnr8hkdm42310cypdnwkgm0r32skim-sqlite-3.46.1-bin",
+        "dev": "/nix/store/hsfqm1ibyp16n6bwxfjpbrqn8nmw4h80-sqlite-3.46.1-dev",
+        "doc": "/nix/store/v1xy3dwiqva12832fhhw0ylp4fbmfmz7-sqlite-3.46.1-doc",
+        "man": "/nix/store/fckh785jsqjvw04i5b824yyw81pap0sg-sqlite-3.46.1-man",
+        "out": "/nix/store/w3b8kbif1x6nhr6shpmj2zx3ppmdj26j-sqlite-3.46.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "sqlite",
+      "broken": false,
+      "derivation": "/nix/store/jzkd8drdr2k2dfghcigdl8lwq742dvi2-sqlite-3.46.1.drv",
+      "description": "Self-contained, serverless, zero-configuration, transactional SQL database engine",
+      "install_id": "sqlite",
+      "license": "Public Domain",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "sqlite-3.46.1",
+      "pname": "sqlite",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.46.1",
+      "outputs_to_install": [
+        "bin",
+        "man"
+      ],
+      "outputs": {
+        "bin": "/nix/store/cf3hlzgfhha1c505bqbzpgxpgbmzsnf4-sqlite-3.46.1-bin",
+        "debug": "/nix/store/b0ipa1rjrhv94z9ckpk935532flzxr50-sqlite-3.46.1-debug",
+        "dev": "/nix/store/b4j7gn356w571j02fck027sg7l691q91-sqlite-3.46.1-dev",
+        "doc": "/nix/store/qdwf6228bfyvgs8ifmrq4zwp84ri4bdj-sqlite-3.46.1-doc",
+        "man": "/nix/store/wmpwvanapqy4rwn20dv0issxpaycmbv6-sqlite-3.46.1-man",
+        "out": "/nix/store/jkbrpjsz2rvngf1wcajgqlb4yflsknsh-sqlite-3.46.1"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "sqlite",
+      "broken": false,
+      "derivation": "/nix/store/q948myz9srqzyigcbdam5jwyi1rsx1xc-sqlite-3.46.1.drv",
+      "description": "Self-contained, serverless, zero-configuration, transactional SQL database engine",
+      "install_id": "sqlite",
+      "license": "Public Domain",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "sqlite-3.46.1",
+      "pname": "sqlite",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.46.1",
+      "outputs_to_install": [
+        "bin",
+        "man"
+      ],
+      "outputs": {
+        "bin": "/nix/store/yp5cvv76j30lby893imz4xz4b1nzwjbm-sqlite-3.46.1-bin",
+        "dev": "/nix/store/x54qm93xj5pjzn71mpri3fd4wmgd4w94-sqlite-3.46.1-dev",
+        "doc": "/nix/store/sl4x8s7anfslns6mzz4zlzlpjlckppw0-sqlite-3.46.1-doc",
+        "man": "/nix/store/gjk6girhrf22srbpyanhml15q29dg7hh-sqlite-3.46.1-man",
+        "out": "/nix/store/46g8y4lb0wxlqh1z4b11ndhar1lc9wxa-sqlite-3.46.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "sqlite",
+      "broken": false,
+      "derivation": "/nix/store/kaqm22as05p1l4j2npsgj98yn5caknln-sqlite-3.46.1.drv",
+      "description": "Self-contained, serverless, zero-configuration, transactional SQL database engine",
+      "install_id": "sqlite",
+      "license": "Public Domain",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "name": "sqlite-3.46.1",
+      "pname": "sqlite",
+      "rev": "d0797a04b81caeae77bcff10a9dde78bc17f5661",
+      "rev_count": 717074,
+      "rev_date": "2024-12-05T09:53:19Z",
+      "scrape_date": "2024-12-07T04:05:05Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.46.1",
+      "outputs_to_install": [
+        "bin",
+        "man"
+      ],
+      "outputs": {
+        "bin": "/nix/store/2wl8mczp318abd6dlppqw4wpb92ssqpj-sqlite-3.46.1-bin",
+        "debug": "/nix/store/zxn5knfx56ism10y81nmxzsx90a1m37g-sqlite-3.46.1-debug",
+        "dev": "/nix/store/5kny4qm3i1wiwy321d5c51f4x8zzb9vr-sqlite-3.46.1-dev",
+        "doc": "/nix/store/59chssis4pdcz3rxy1r4y7f6sd2mz6gz-sqlite-3.46.1-doc",
+        "man": "/nix/store/wh6y7bz91fvs06v8rry9vhqm53c6ycwx-sqlite-3.46.1-man",
+        "out": "/nix/store/bbd59cqw259149r2ddk4w1q0lr2fch8c-sqlite-3.46.1"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    }
+  ]
+}

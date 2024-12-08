@@ -1,0 +1,15 @@
+{
+  "lsp": {
+    "ruby-lsp": {
+      "binary": {
+        "path": "bin/ruby-lsp"
+      }
+    },
+    "rubocop": {
+      "binary": {
+        "path": "bin/rubocop",
+        "arguments": ["--server"]
+      }
+    }
+  }
+}
